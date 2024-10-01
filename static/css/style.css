@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(228, 124, 124);
+}
+.navbar{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    padding: 20px 20px;
+    margin: 10px;
+}
+
+
